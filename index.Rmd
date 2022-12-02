@@ -1,6 +1,9 @@
 ---
-title: "Understanding Climate Risks for Evidence-based Planning"
-author: "Kerala Institute of Local Administration (KILA)and Woodwell Climate Research Center"
+title: |
+  <center> Training of Trainers: </center>
+  <center> Understanding Climate Risk for </center>
+  <center> Evidence-Based Planning </center>
+author: "Kerala Institute of Local Administration (KILA) and Woodwell Climate Research Center"
 site: bookdown::bookdown_site
 documentclass: book
 output:
@@ -9,7 +12,7 @@ output:
     theme: yeti
 ---
 # Home {-}
-![](TU_and_Woodwell.jpg)
+![](KILA_logos.jpeg)
 <span style="color: #FF7733;">**CHANGE ME**</span> 
 
 **Linking risk assessments to their practical use**
