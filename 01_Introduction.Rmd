@@ -11,32 +11,19 @@ KILA Headquarters in Thrissur
 
 ## Tools Needed {-}
 
-Please, attempt to download [QGIS](https://www.qgis.org/en/site/forusers/download.html) onto your computer before the training 
+Please download [QGIS](https://www.qgis.org/en/site/forusers/download.html) onto your computer before the training 
 
-## Goals of Training {-}
-<span style="color: #FF7733;">**CHANGE ME**</span> 
+## Training Objective {-}
+<!--- <span style="color: #FF7733;">**CHANGE ME**</span> --->
 
-*	Participants will be able to communicate how climate change will impact Province 1. 
+*	Participants will develop a baseline understanding of climate risk analysis and the components, applications, and limitations of climate modeling and mapping.
 
-*	Participants will be able to work with climate model data and create their own maps and visualizations.
+*	Participants will be able to use geospatial data to help tell their stories.
 
-*	Participants will be able to use the data to help tell their stories.
+<!--- ## Learning Outcome {-}  --->
 
-## Learning Outcome {-}
+<!--- After the completion of the program, participants will be able to discuss risk maps and describe the process to their friends and community.  --->
 
-After the completion of the program, participants will be able to discuss risk maps and describe the process to their friends and community.
+<!--- <span style="color: #FF7733;">**CHANGE ME**</span> - students will receive: --->
 
-<span style="color: #FF7733;">**CHANGE ME**</span> - students will receive:
-
-* Regional climate model data for Nepal
-
-  +	Maximum temperature (daily) 1990-2019 and 2040-2069
-
-  +	Minimum temperature (daily) 1990-2019 and 2040-2069
-
-  +	Maximum wet-bulb temperature (daily) 1990-2019 and 2040-2069
-
-  +	Precipitation (daily) 1990-2019 and 2040-2069
-
-* Example codes that participants can use to further explore their own climate risk questions.
 
