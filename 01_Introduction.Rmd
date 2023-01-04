@@ -1,13 +1,13 @@
 # Introduction 
 
 ## Times and Dates {-}
-December 7, 2022 5.30-8 pm IST
+January 11, 2022 5.30-8 pm IST
 
-December 8, 2022 5.30-8 pm IST
+January 12, 2022 5.30-8 pm IST
 
 ## Location {-}
 
-KILA Headquarters in Thrissur
+Virtual Training at KILA Headquarters in Thrissur
 
 ## Tools Needed {-}
 
