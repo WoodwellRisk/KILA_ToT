@@ -1,0 +1,18 @@
+## Before the Training {-}
+
+* **Please fill out your [registration form](https://forms.gle/fmvJq8oQ7oGur1hn6){target="_blank"}.** This is to gauge participants' backgrounds and interests. Thank you.
+
+* **Ensure you are able to log onto Zoom.** 
+
+* **Please download the data for the technical exercise ahead of time.** The files we will be using can be found [here](https://github.com/WoodwellRisk/KILA_ToT/tree/main/data){target="_blank"}.
+
+
+## Agenda {-}
+
+The training agenda can be found [here](https://github.com/WoodwellRisk/KILA_ToT/blob/main/course_materials/KILA_Climate_Risk_Agenda.pdf){target="_blank"}.
+
+
+## Powerpoints {-}
+After the training, PDF files of the training slides will be shared [here](https://github.com/WoodwellRisk/KILA_ToT/tree/main/course_materials){target="_blank"}.
+
+
