@@ -3,7 +3,7 @@ title: |
   <center> Training of Trainers: </center>
   <center> Understanding Climate Risk for </center>
   <center> Evidence-Based Planning </center>
-author: "Kerala Institute of Local Administration (KILA) and Woodwell Climate Research Center"
+author: "Woodwell Climate Research Center, GeoHazards International, and GeoHazards Society for Kerala Institute of Local Administration (KILA)"
 site: bookdown::bookdown_site
 documentclass: book
 output:
