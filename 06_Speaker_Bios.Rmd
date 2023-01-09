@@ -1,6 +1,5 @@
 # Speaker Bios
 
-<span style="color: #FF7733;">**CHANGE ME**</span> 
 
 ## Hosts {-}
 
