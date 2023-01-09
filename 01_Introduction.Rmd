@@ -11,7 +11,7 @@ Virtual Training at KILA Headquarters in Thrissur
 
 ## Tools Needed {-}
 
-Please download [QGIS](https://www.qgis.org/en/site/forusers/download.html) onto your computer before the training 
+Please download [QGIS](https://www.qgis.org/en/site/forusers/download.html) onto your computer before the training. QGIS will be needed to complete the technical exercise and to earn the certificate of completion.   
 
 ## Training Objective {-}
 <!--- <span style="color: #FF7733;">**CHANGE ME**</span> --->
