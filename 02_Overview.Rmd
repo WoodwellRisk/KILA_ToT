@@ -6,7 +6,7 @@
 
 * **Ensure you are able to log onto Zoom.** 
 
-* **Please download the data for the technical exercise ahead of time.** The files we will be using can be found [here](https://github.com/WoodwellRisk/KILA_ToT/tree/main/data){target="_blank"}.
+* **Please download the data for the qgis turorial ahead of time.** To download the data, please click on the day1_data.zip file that can be found [here](https://github.com/WoodwellRisk/KILA_ToT/tree/main/data){target="_blank"}. Then press the Download button. 
 
 
 ## Agenda {-}
