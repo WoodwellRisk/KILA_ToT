@@ -6,7 +6,7 @@
 
 * **Ensure you are able to log onto Zoom.** 
 
-* **Please download the data for the qgis turorial ahead of time.** To download the data, please click on the day1_data.zip file that can be found [here](https://github.com/WoodwellRisk/KILA_ToT/tree/main/data){target="_blank"}. Then press the Download button. 
+* **Please download the data for the qgis turorial ahead of time.** To download the data, please click on the day1_data.zip file that can be found [here](https://github.com/WoodwellRisk/KILA_ToT/tree/main/data){target="_blank"}. Then press the Download button. To access the data and directions for the technical exercise, please download the homework.zip file at the same link. 
 
 
 ## Agenda {-}
@@ -15,6 +15,12 @@ The training agenda can be found [here](https://github.com/WoodwellRisk/KILA_ToT
 
 
 ## Powerpoints {-}
-After the training, PDF files of the training slides will be shared [here](https://github.com/WoodwellRisk/KILA_ToT/tree/main/course_materials){target="_blank"}.
+After the full training, PDF files of the slides will be shared [here](https://github.com/WoodwellRisk/KILA_ToT/tree/main/course_materials){target="_blank"}.
 
 
+## Zoom Recordings {-}
+The video for the Day 1 session can be found [here](https://woodwellclimate-org.zoom.us/rec/share/WfwCTcTo0PYk82_ZAJ3mIESfidIAb0xdSJ0MTjMURhOVqsEW1-MTXgoEHJOOX2ex.TUCQPe1C8NvuhnAi){target="_blank"}. You will need to register to view the recording. 
+
+
+## Map Submission {-}
+After completing the technical exercise, please share your maps by using the submission form [here](https://forms.gle/RhcuKB4Wg7jBVgnG7){target="_blank"}. The form will also ask you to describe yours maps. Please submit all maps by Monday January 16, 2023.
