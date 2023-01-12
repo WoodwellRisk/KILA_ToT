@@ -14,3 +14,16 @@ output:
 # Home {-}
 ![](KILA_logos.jpeg)
 
+## About the Partners {-}
+
+### Kerala Institute for Local Administration [(KILA)](https://www.kila.ac.in/){target="_blank"}. {-}
+KILA is an autonomous institution functioning for the Local governments in Kerala since 1990. KILA has been engaged in a myriad of capacity-building interventions on local governance and decentralization; including training, action research, publications, seminars and workshops, consultancy, documentation, handholding, and information services.
+
+### Woodwell Climate Research Center [(Woodwell)](https://www.woodwellclimate.org/){target="_blank"}. {-}
+Woodwell Climate Research Center—founded in 1985 as the Woods Hole Research Center—is a scientific research organization that conducts science for solutions at the nexus of climate, people, and nature. Woodwell partners with leaders and communities from the Arctic to the Amazon for just, meaningful impact to address the climate crisis.
+
+### GeoHazards International [(GHI)](www.geohaz.org){target="_blank"}. {-}
+GHI has been working with a major thrust in the areas of Disaster Risk Reduction (DRR) and Climate Change Adaptation (CCA) across India and South Asia (Nepal, Bhutan, and Myanmar).
+
+### GeoHazards Society [(GHS)](www.geohaz.in){target="_blank"}. {-}
+Since 2008, GHS is working towards making the country’s most vulnerable communities safer from various hazards including climatic, geological, and human induced hazards. GHS along with its partners seek to associate with Government agencies in Kerala with the common goal to equip communities to combat the effects of climate change and instill preparedness and mitigation practices.
